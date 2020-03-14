@@ -2,7 +2,7 @@
 email: codemichaeld@gmail.com
 
 ## 3D Modeling examples
-* Item 1 ![Low Poly Forest](https://github.com/CodeMichaelD/MichaelD/blob/master/Key3.jpg)
+* Item 1 ![Low Poly Forest](/Key3.jpg)
   * Item 1a ![Low Poly Animals](https://github.com/CodeMichaelD/MichaelD/blob/master/key1.jpg)
 //1. ![Low Poly Forest](https://github.com/CodeMichaelD/MichaelD/blob/master/Key3.jpg)
 //1. ![Low Poly Animals](https://github.com/CodeMichaelD/MichaelD/blob/master/key1.jpg)
