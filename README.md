@@ -2,7 +2,7 @@
 email: codemichaeld@gmail.com
 
 ## 3D Modeling examples
-(https://github.com/CodeMichaelD/MichaelD/blob/master/Key3.jpg)
+![Image of Yaktocat](https://github.com/CodeMichaelD/MichaelD/blob/master/Key3.jpg)
 
 ### Markdown
 
