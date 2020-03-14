@@ -2,8 +2,7 @@
 email: codemichaeld@gmail.com
 
 ## 3D Modeling examples
-(key1.jpg)
-(Key3.jpg)
+(/Key3.jpg)
 
 ### Markdown
 
