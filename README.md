@@ -2,7 +2,8 @@
 email: codemichaeld@gmail.com
 
 ## 3D Modeling examples
-![Image of Yaktocat](https://github.com/CodeMichaelD/MichaelD/blob/master/Key3.jpg)
+![Low Poly Forest](https://github.com/CodeMichaelD/MichaelD/blob/master/Key3.jpg)
+![Low Poly Forest](https://github.com/CodeMichaelD/MichaelD/blob/master/key1.jpg)
 
 ### Markdown
 
