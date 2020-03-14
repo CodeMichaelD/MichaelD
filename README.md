@@ -2,8 +2,8 @@
 email: codemichaeld@gmail.com
 
 ## 3D Modeling examples
-[Low Poly](/key1.jpg)
-[Low Poly](/Key3.jpg)
+(key1.jpg)
+(Key3.jpg)
 
 ### Markdown
 
