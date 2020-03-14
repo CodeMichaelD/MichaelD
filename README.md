@@ -23,8 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![GitHub Logo](/key1.jpg)
-Format: ![Alt Text](url)
+![Image of Yaktocat](https://github.com/CodeMichaelD/MichaelD/blob/master/key1.jpg)
 
 [Link](https://github.com/CodeMichaelD/MichaelD/blob/master/key1.jpg) and ![Image](src)
 ```
